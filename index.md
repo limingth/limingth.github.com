@@ -1,5 +1,5 @@
 ---
-post: default
+layout: default
 ---
 
 # 欢迎访问 @亚嵌李明老师 个人主页
