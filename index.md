@@ -9,7 +9,8 @@ layout: default
 
 ## When you see this, Do you really like git ?
 
-Insert howto_git.png 
+ 
+<center><img src="howto_git.png"></center>
 
 
 
