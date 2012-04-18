@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 嵌入式学习
+title: 嵌入式学习之路-开源学ARM
 ---
 
 # 欢迎访问 
@@ -15,5 +15,4 @@ title: 嵌入式学习
 ## When you see this, Do you really like git ?
 <center><img src="howto_git.png"></center>
 
-
-@亚嵌李明老师 (http://weibo.com/u/2529882607)
+### 网站随时更新，请关注新浪微博 @亚嵌李明老师 (http://weibo.com/u/2529882607)
