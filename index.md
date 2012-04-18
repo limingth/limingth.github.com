@@ -1,11 +1,15 @@
 ---
 layout: default
+title: 嵌入式学习
 ---
 
 # 欢迎访问 
 
-## 电子书 《开源学ARM》		<http://limingth.github.com/LASO>
-## 资料下载 ARM-Tools		<http://limingth.github.com/ARM-Tools>
+## 电子书 《开源学ARM》		
+	<http://limingth.github.com/LASO>
+	
+## 资料下载 ARM-Tools		
+	<http://limingth.github.com/ARM-Tools>
 
 
 ## When you see this, Do you really like git ?
