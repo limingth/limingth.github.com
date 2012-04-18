@@ -15,4 +15,4 @@ ARM-Tools 	<http://limingth.github.com/ARM-Tools>
 ## When you see this, Do you really like git ?
 <center><img src="howto_git.png"></center>
 
-## 网站随时更新，请关注新浪微博 @亚嵌李明老师 (http://weibo.com/u/2529882607)
+## 网站随时更新，请关注新浪微博 [@亚嵌李明老师] (http://weibo.com/u/2529882607)
