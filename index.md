@@ -8,8 +8,11 @@ title: 嵌入式学习之路-源码开放学ARM
 ## 电子书 
 《源码开放学ARM》	<http://limingth.github.com/LASO>
 	
-## 资料下载 
+## 工具下载 
 ARM-Tools 	<http://limingth.github.com/ARM-Tools>
+
+## 资料下载 
+ARM-Resources 	<https://github.com/limingth/ARM-Resources>
 
 
 ## When you see this, Do you really like git ?
