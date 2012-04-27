@@ -12,10 +12,10 @@ title: 嵌入式学习之路-源码开放学ARM
 ARM-Tools 	<http://limingth.github.com/ARM-Tools>
 
 ## 资料下载 
-ARM-Resources 	<http://limingth.github.com/ARM-Resources>
+ARM-Resources 	<https://github.com/limingth/ARM-Resources>
 
 ## 代码下载 
-ARM-Codes 	<http://limingth.github.com/ARM-Codes>
+ARM-Codes 	<https://github.com/limingth/ARM-Codes>
 
 
 
