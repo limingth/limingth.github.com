@@ -20,11 +20,11 @@ title: 嵌入式学习之路-源码开放学ARM
 #### 视频下载  
 ARM-Videos 	<https://github.com/limingth/ARM-Videos>
 
----> [web 视频测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)    
-为获得更好的视频播放功能，推荐[下载 Chrome 浏览器](http://www.google.com/chrome)来观看视频。
+---> [web 视频mp4测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)    
+推荐[下载 Chrome 浏览器](http://www.google.com/chrome)来观看视频效果更佳。
 
----> [手机视频测试链接](http://limingth.github.com/ARM-Videos/video-demo2/test-m4v.html)   
-如手机上不能播放成功，请[告诉我](mailto:2372614758@qq.com)。
+---> [手机视频m4v测试链接](http://limingth.github.com/ARM-Videos/video-demo2/test-m4v.html)   
+如果手机上不能播放成功，请[告诉我](mailto:2372614758@qq.com)以便尽快改进。
 
 
 
