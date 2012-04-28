@@ -20,8 +20,8 @@ ARM-Codes 		<https://github.com/limingth/ARM-Codes>
 ## 视频下载
 ARM-Videos 		<https://github.com/limingth/ARM-Videos>
 
-视频demo测试		<http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html>
-
+[web 视频测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)   
+[手机视频测试链接](http://limingth.github.com/ARM-Videos/video-demo2/test-m4v.html)
 
 
 ##### 网站随时更新，请关注新浪微博 [@亚嵌李明老师] (http://weibo.com/limingth)
