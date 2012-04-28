@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: default
 title: 嵌入式学习之路-源码开放学ARM
 ---
 
 # 欢迎访问 
 
 ## 电子书 
-《源码开放学ARM》	<http://limingth.github.com/LASO>
+<li>《源码开放学ARM》	<http://limingth.github.com/LASO> </li>
 	
 ## 工具下载 
 ARM-Tools 	<http://limingth.github.com/ARM-Tools>
