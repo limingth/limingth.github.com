@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 嵌入式学习之路-源码开放学ARM
 ---
 
