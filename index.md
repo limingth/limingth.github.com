@@ -17,6 +17,9 @@ ARM-Resources 	<https://github.com/limingth/ARM-Resources>
 ## 代码下载 
 ARM-Codes 	<https://github.com/limingth/ARM-Codes>
 
+## 视频下载
+还在整理中
 
 
-## 网站随时更新，请关注新浪微博 [@亚嵌李明老师] (http://weibo.com/limingth)
+
+##### 网站随时更新，请关注新浪微博 [@亚嵌李明老师] (http://weibo.com/limingth)
