@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 嵌入式学习之路-源码开放学ARM
+title: 嵌入式自由学习之路-源码开放学ARM
 ---
 
 # 欢迎访问 
