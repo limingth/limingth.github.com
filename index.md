@@ -6,7 +6,7 @@ title: 嵌入式自由学习之路-源码开放学ARM
 # 欢迎访问 
 
 #### 电子书在线阅读   
-*源码开放学ARM	<http://limingth.github.com/LASO>
+*源码开放学ARM	<http://limingth.github.com/LASO>    [pdf 下载](LASO/LASO.zh.pdf)
 	
 #### 工具下载  
 *ARM-Tools 	<http://limingth.github.com/ARM-Tools>
