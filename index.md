@@ -7,7 +7,7 @@ title: 嵌入式自由学习之路-源码开放学ARM
 
 ## 在线电子书  `《源码开放学ARM》`  
 + <http://limingth.github.com/LASO>    
-> *[pdf下载](LASO/LASO.zh.pdf)      > *[关注pdf生成器-mkbok项目](https://github.com/larrycai/mkbok)
+> *[pdf下载](LASO/LASO.zh.pdf)      
 
 ## 工具下载  `ARM-Tools`   
 + <http://limingth.github.com/ARM-Tools>
