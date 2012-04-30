@@ -5,23 +5,23 @@ title: 嵌入式自由学习之路-源码开放学ARM
 
 # 欢迎访问 
 
-## 在线电子书  `《源码开放学ARM》`   
+## 在线电子书 `LASO`   
 + <http://limingth.github.com/LASO>   
 + <http://limingth.github.com>   
 + <http://limingth.github.com/ARM-Tools>
 > *[pdf下载](LASO/LASO.zh.pdf)
 
-## 工具下载  `ARM-Tools`   
+## 工具下载 `ARM-Tools`   
 + <http://limingth.github.com/LASO>   
 + <http://limingth.github.com/ARM-Tools>
 
-## 资料下载  `ARM-Resources`   
+## 资料下载 `ARM-Resources`   
 + <http://github.com/limingth/ARM-Resources>
 
-## 代码下载  `ARM-Codes`   
+## 代码下载 `ARM-Codes`   
 + <http://github.com/limingth/ARM-Codes>
 
-## 视频下载  `ARM-Videos`   
+## 视频下载 `ARM-Videos`   
 + <http://github.com/limingth/ARM-Videos>
 
 >* [Web 视频mp4测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)    
