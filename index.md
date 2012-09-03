@@ -20,7 +20,7 @@ title: 嵌入式自由学习之路-源码开放学ARM
 + <http://github.com/limingth/ARM-Codes>  
 
 ### 视频下载 `ARM-Videos`   
-+ <http://www.boobooke.com/bbs/forum-79-1.html> 共约60集，正在陆续制作发布中...
++ <http://www.boobooke.com/bbs/forum-79-1.html>   (视频讲座共约60集，正在陆续制作发布中...)
 + <http://github.com/limingth/ARM-Videos>  
 
 >* [Web 视频mp4测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)
