@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 嵌入式自由学习之路-源码开放学ARM
+title: 嵌入式自由学习之路-亚嵌李明老师
 ---
 
 ## 欢迎访问 
 
-### 在线电子书 `《源码开放学ARM》`   
+### 《源码开放学ARM》 `Learn ARM with Source Open`   
 + <http://www.lumit.org/LASO>   
 
 >> *[pdf下载](LASO/LASO.zh.pdf)  
@@ -19,7 +19,7 @@ title: 嵌入式自由学习之路-源码开放学ARM
 ### 代码下载 `LASO.codes`   
 + <http://github.com/limingth/LASO.codes>  
 
-### 视频下载 `ARM-Videos`   
+### 视频下载 `LASO.videos`   
 + <http://www.boobooke.com/bbs/forum-79-1.html>   (视频讲座共67集，已经全部免费发布)
 + <http://github.com/limingth/ARM-Videos>  
 
