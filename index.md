@@ -6,24 +6,24 @@ title: 嵌入式自由学习之路-源码开放学ARM
 ## 欢迎访问 
 
 ### 在线电子书 `《源码开放学ARM》`   
-+ <http://limingth.github.com/LASO>   
++ <http://www.lumit.org/LASO>   
 
 >> *[pdf下载](LASO/LASO.zh.pdf)  
 
-### 工具下载 `ARM-Tools`   
-+ <http://limingth.github.com/ARM-Tools>  
+### 工具下载 `LASO.tools`   
++ <http://github.com/limingth/LASO.tools>  
 
-### 资料下载 `ARM-Resources`   
-+ <http://github.com/limingth/ARM-Resources>  
+### 资料下载 `LASO.resources`   
++ <http://github.com/limingth/LASO.resources>  
 
-### 代码下载 `ARM-Codes`   
-+ <http://github.com/limingth/ARM-Codes>  
+### 代码下载 `LASO.codes`   
++ <http://github.com/limingth/LASO.codes>  
 
 ### 视频下载 `ARM-Videos`   
-+ <http://www.boobooke.com/bbs/forum-79-1.html>   (视频讲座共约60集，正在陆续制作发布中...)
++ <http://www.boobooke.com/bbs/forum-79-1.html>   (视频讲座共67集，已经全部免费发布)
 + <http://github.com/limingth/ARM-Videos>  
 
->* [Web 视频mp4测试链接](http://limingth.github.com/ARM-Videos/video-demo/test-mp4.html)
+>* [Web 视频mp4测试链接](http://www.lumit.org/ARM-Videos/video-demo/test-mp4.html)
 
 >> *推荐[下载 Chrome 浏览器](http://www.google.com/chrome)来观看视频效果更佳。
 
@@ -33,3 +33,6 @@ title: 嵌入式自由学习之路-源码开放学ARM
 
 ### 联系作者  
 网站随时更新，请关注新浪微博 [@亚嵌李明老师] (http://weibo.com/limingth)
+
+[《新概念C语言》](http://www.lumit.org/NCCL/)正在写作中，如有兴趣，请加入QQ群：275488078
+
